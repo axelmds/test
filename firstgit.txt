@@ -1,4 +1,6 @@
+yes yes yes yes 
 Tes couettes sont magnifiques <3
+Tu aimes mes couettes
 Merci pépéronni ziziland
 
 vazy la, ne cherche pas des problèmes ! sinon c'est conflit !!! 
@@ -6,7 +8,7 @@ vazy la, ne cherche pas des problèmes ! sinon c'est conflit !!!
 caca 
 
 est ce que ca marche ??????????????????????
-
+hellooooooooooooooooooooooooooooooooooo
 Git add "nom de fichier"
 Git commit -m "nom de la modification"
 Git push -u origin master
