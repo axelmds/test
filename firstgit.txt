@@ -2,3 +2,9 @@ Tes couettes sont magnifiques <3
 Merci pépéronni ziziland
 
 caca 
+
+Git add "nom de fichier"
+Git commit -m "nom de la modification"
+Git push -u origin master
+
+Tu connais Naruto ?
